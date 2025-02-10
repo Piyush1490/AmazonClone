@@ -2,6 +2,8 @@
 
 This project is a simple **Amazon-inspired website** created using **HTML** and **CSS**. It features a responsive layout, replicating the look and feel of the Amazon website, with a navbar, hero section, shopping categories, and a footer.
 
+## https://piyush1490.github.io/AmazonClone/
+
 ## Features
 
 - **Navbar** with search bar, location selector, and cart functionality.
@@ -20,10 +22,6 @@ This project is a simple **Amazon-inspired website** created using **HTML** and 
 - **Font Awesome**: For icons in the navbar and other sections.
 
 ---
-
-## Screenshots
-
-Add screenshots here to showcase the website's design and functionality. For example:
 
 
 
